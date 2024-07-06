@@ -48,3 +48,13 @@ Lowest Energy Conformation: The conformation with the minimum energy.
 Energies of Each Conformation: Energy values associated with each identified conformation.
 Total Number of Accessible Conformations: Count of conformations that have accessible energy levels.
 ...and more.
+
+## Reference
+```bibtex
+@phdthesis{Wei2024DiamondEnergy,
+  title={*Diamond Energy* – a systematic conformation searching method},
+  author={Wei, Mengman},
+  year={2024},
+  school={University of Cambridge}
+  doi={https://doi.org/10.17863/CAM.109200}
+}
